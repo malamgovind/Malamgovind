@@ -1,4 +1,5 @@
 MALAM GOVIND DEVSHIBHAI
+🌐 My Resume Website → https://myresumewebiste.vercel.app/
 
 Python Developer | Fresher
 
@@ -64,9 +65,6 @@ Genios Secondary & Higher Secondary School, Manavadar
 
 Percentage: 72.33%
 
-🌐 My Complete Resume Website
-
-Open My Resume Website → https://myresumewebiste.vercel.app/
 
 📬 Contact Me
 Email: malamgovindd1@gmail.com
