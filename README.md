@@ -2,13 +2,13 @@ MALAM GOVIND DEVSHIBHAI
 
 🌐 My Resume Website → https://myresumewebiste.vercel.app/
 
-Python Developer | Fresher
+🐍 Python Developer | Fresher
 
 📍 Gandhinagar, Gujarat, India
 
-📧 malamgovindd1@gmail.com 
+📧 malamgovindd1@gmail.com
 📞 6351782424
-LinkedIn: linkedin.com/in/malam-govind-358707308/
+🔗 LinkedIn: linkedin.com/in/malam-govind-358707308/
 
 👨‍💻 Profile Summary
 
@@ -21,7 +21,6 @@ Database	MySQL
 Web Technologies	HTML, CSS, JavaScript, PHP
 Tools	Git, GitHub
 💼 Internship Experience
-
 React & Node Developer Intern
 
 Sparks To Ideas, Ahmedabad
@@ -66,23 +65,9 @@ Genios Secondary & Higher Secondary School, Manavadar
 
 Percentage: 72.33%
 
-
 📬 Contact Me
-Email: malamgovindd1@gmail.com
-Phone: 6351782424
-LinkedIn: Malam Govind
-GitHub: malamgovind
-<!--
-**malamgovind/Malamgovind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email: malamgovindd1@gmail.com
+📞 Phone: 6351782424
+🔗 LinkedIn: Malam Govind
+💻 GitHub: malamgovind
