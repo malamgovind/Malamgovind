@@ -1,4 +1,3 @@
-## Hi there 👋
 MALAM GOVIND DEVSHIBHAI
 
 Python Developer | Fresher
