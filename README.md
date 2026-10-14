@@ -5,9 +5,9 @@ Python Developer | Fresher
 
 📍 Gandhinagar, Gujarat, India
 
-📧 malamgovindd1@gmail.com · 📞 6351782424
-
-LinkedIn · GitHub
+📧 malamgovindd1@gmail.com 
+📞 6351782424
+LinkedIn: linkedin.com/in/malam-govind-358707308/
 
 👨‍💻 Profile Summary
 
